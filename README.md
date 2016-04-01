@@ -16,6 +16,6 @@ Additional task: save users to database.
 
 
 Icons:
-[Search](https://github.com/volodymyryatsykiv/TechnicalTask/blob/master/ic_search_white.png)
-[Check Circle](https://github.com/volodymyryatsykiv/TechnicalTask/blob/master/ic_check_circle_white.png)
-[Add](https://github.com/volodymyryatsykiv/TechnicalTask/blob/master/ic_add_black.png) 
+- [Search](https://github.com/volodymyryatsykiv/TechnicalTask/blob/master/ic_search_white.png)
+- [Check Circle](https://github.com/volodymyryatsykiv/TechnicalTask/blob/master/ic_check_circle_white.png)
+- [Add](https://github.com/volodymyryatsykiv/TechnicalTask/blob/master/ic_add_black.png) 
